@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="coding" width="260" src="YOUR_PROFILE_IMAGE_LINK_HERE" />
+<img align="right" alt="Pranit Karki" width="260" src="https://raw.githubusercontent.com/nirojpsk/nirojpsk/main/IMG_6377.jpg" />
 
 - 🎓 BEI graduate from **Purwanchal Campus, Dharan**
 - 💻 Focused on **Full-Stack MERN Development**
@@ -38,7 +38,7 @@
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,jsonwebtoken" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
 </p>
 
 ### Tools & Deployment
