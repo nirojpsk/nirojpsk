@@ -4,10 +4,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://api.dicebear.com/7.x/bottts-neutral/svg?seed=PranitKarki&backgroundColor=1b1f3b,0f2027,203a43&eyes=bulging,cute,frame1&mouth=smile01,smile02" alt="Developer Avatar" width="220" />
-</div>
-
 <h1 align="center">Hi 👋, I'm Pranit</h1>
 <h3 align="center">Aspiring Full-Stack MERN Developer from Nepal</h3>
 
@@ -19,6 +15,8 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" alt="Pranit Karki" width="260" src="https://raw.githubusercontent.com/nirojpsk/nirojpsk/main/IMG_6377.jpg" />
+
 - 🎓 BEI graduate from **Purwanchal Campus, Dharan**
 - 💻 Focused on **Full-Stack MERN Development**
 - 🔭 Currently building **real-world web applications**
@@ -26,6 +24,8 @@
 - 🤝 Open to collaborating on **React, Node.js, Express, and MongoDB projects**
 - 💬 Ask me about **JavaScript, React, Redux Toolkit, Express, MongoDB, and REST APIs**
 - ⚡ I enjoy turning ideas into **modern, useful, and responsive products**
+
+<br clear="right"/>
 
 ---
 
@@ -74,8 +74,10 @@ A full-stack freelance marketplace platform built with the MERN stack.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nirojpsk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirojpsk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nirojpsk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirojpsk&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <div align="center">
@@ -118,4 +120,4 @@ A full-stack freelance marketplace platform built with the MERN stack.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" />
-</div>
+</div>, also make the side image more dyanic, responsive and professional looking too
