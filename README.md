@@ -4,6 +4,10 @@
 
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nirojpsk/nirojpsk/main/images/dev-avatar.png" alt="Developer Avatar" width="260" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Pranit</h1>
 <h3 align="center">Aspiring Full-Stack MERN Developer from Nepal</h3>
 
@@ -15,8 +19,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Pranit Karki" width="260" src="https://raw.githubusercontent.com/nirojpsk/nirojpsk/main/IMG_6377.jpg" />
-
 - 🎓 BEI graduate from **Purwanchal Campus, Dharan**
 - 💻 Focused on **Full-Stack MERN Development**
 - 🔭 Currently building **real-world web applications**
@@ -24,8 +26,6 @@
 - 🤝 Open to collaborating on **React, Node.js, Express, and MongoDB projects**
 - 💬 Ask me about **JavaScript, React, Redux Toolkit, Express, MongoDB, and REST APIs**
 - ⚡ I enjoy turning ideas into **modern, useful, and responsive products**
-
-<br clear="right"/>
 
 ---
 
@@ -74,10 +74,8 @@ A full-stack freelance marketplace platform built with the MERN stack.
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nirojpsk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirojpsk&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nirojpsk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirojpsk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </div>
 
 <div align="center">
