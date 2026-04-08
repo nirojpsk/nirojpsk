@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nirojpsk/nirojpsk/main/images/dev-avatar.png" alt="Developer Avatar" width="260" />
+  <img src="https://api.dicebear.com/7.x/bottts-neutral/svg?seed=PranitKarki&backgroundColor=1b1f3b,0f2027,203a43&eyes=bulging,cute,frame1&mouth=smile01,smile02" alt="Developer Avatar" width="220" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Pranit</h1>
