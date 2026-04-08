@@ -101,7 +101,7 @@ A full-stack freelance marketplace platform built with the MERN stack.
   <a href="https://linkedin.com/in/er-pranit-karki" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Pranit%20Karki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/pranitkarki" target="_blank">
+  <a href="https://facebook.com/pranit.karki.90" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Pranit%20Karki-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://instagram.com/psk058x" target="_blank">
